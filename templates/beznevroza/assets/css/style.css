@@ -92,6 +92,7 @@ body{
 .container{
     width: 1170px;
     padding: 0 15px;
+    margin: 0 auto;
 }
 
 .admin-content-wrapper{
@@ -706,7 +707,12 @@ i.blue-link-icon{
     vertical-align: middle;
     border: 1px solid #dddddd;
     padding: 10px;
+    
 }
+.admin-table tr{
+    /* width: 100%; */
+}
+
 
 .admin-table tr:nth-child(2n+1){
     background-color: #f7f7f7;

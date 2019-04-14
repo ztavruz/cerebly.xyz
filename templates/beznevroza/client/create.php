@@ -27,7 +27,7 @@
 </form>
 */?>
 <div class="psevdo-centered">
-<div class="conteiner">
+<div class="container">
 <div class="row">
 <h2>Вопрос успешно отправлен! </h2>
 <h3>Ответ будет отправлен на ваш email.  </h3>

@@ -65,7 +65,7 @@ $transactions = $data['transactions'];
     </div>
     </div>
     <!--<?php // echo $time ?> -->
-    <div class="conteiner finance-mar">
+    <div class="container finance-mar">
 
         <table class="admin-table ab-admin-table">
         <tr>
