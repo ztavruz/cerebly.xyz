@@ -10,7 +10,7 @@ $config = array(
         "database" => "u0301994_cerebry",
         "host" => "localhost",
         "username" => 'u0301_cerebry',
-        "password" => "Astrolyabya1981"
+        "password" => "samsung123"
     ),
     "default-theme" => "beznevroza",
     "controller-label" => 'c',
