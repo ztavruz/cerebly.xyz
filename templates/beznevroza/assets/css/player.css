@@ -1,0 +1,341 @@
+@font-face {
+	font-family: 'OpenSans';
+	src: url("../fonts/open-sans.ttf");
+}
+
+.wrapper-player{
+    width: 500px;
+    /* height: 500px; */
+    /* background: #eeeeee; */
+    padding-top: 20px;
+}
+.wrapper-player .panel{
+    width: 422px;
+    height: 136px;
+    position: relative;
+}
+.wrapper-player .panel img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.wrapper-player .panel .controls{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper-player .panel .controls .header{
+    width: 100%;
+    height: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper-player .panel .controls .header .volume{
+    margin-top: 7.5px;
+    display: flex;
+}
+.wrapper-player .panel .controls .header .volume img{
+    width: 10px;
+    height: 11px;
+}
+.wrapper-player .panel .controls .header .volume .point-volume{
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #1d242a;
+    border-radius: 6px;
+    height: 11px;
+    width: 107px;
+}
+.wrapper-player .panel .controls .header .volume .point-volume .point-activ{
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(to top, #e5e5e5 5%, #008b00 50%, #e9dede 95%);
+}
+.wrapper-player .panel .controls .header .volume .point-volume .point-inactiv{
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(to top, #e5e5e5 5%, #1b1b1b 40%);
+}
+.wrapper-player .panel .controls .center{
+    height: 72px;
+    width: 98%;
+    background-image: url(../img/player/center-player.png)
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress{
+    width: 302px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 7px;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .titel{
+    width: 290px;
+    height: 19px;
+    display: flex;
+    align-items: center;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .titel h1{
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    font-family: 'OpenSans';
+    font-weight: 200;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail{
+    width: 290px;
+    height: 35px;
+    display: flex;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .time{
+    width: 65px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .time h1{
+    font-family: 'OpenSans';
+    font-size: 24px;
+    color: #eeeeee;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .ekvail{
+    width: 180px;
+    height: 100%;
+    display: flex;
+    padding-left: 5px;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .ekvail .wrapper-vol{
+    width: 6px;
+    height: 100%;
+    margin-left: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .ekvail .wrapper-vol .vol-max{
+    width: 100%;
+    height: 1px;
+    background: rgb(255, 7, 7);
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .time-ekvail .ekvail .wrapper-vol .vol{
+    width: 100%;
+    height: 16px;
+    max-height: 35px;
+    background: green;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .wrapper-progress{
+    width: 290px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .wrapper-progress .rels{
+    position: relative;
+    width: 250px;
+    height: 6px;
+    background: #1e262c;
+    border: #505a65 solid 1px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .wrapper-progress .rels .auditioned{
+    height: 100%;
+    background: #168816;
+    border-radius: 4px 0px 0px 4px;
+}
+.wrapper-player .panel .controls .center .titel-ekvail-progress .wrapper-progress .rels .begunok{
+    width: 2px;
+    height: 11px;
+    background: #4b4b4b;
+    border: solid #818181 1px;
+}
+.wrapper-player .panel .controls .bottom{
+    height: 36px;
+    width: 100%;
+    display: flex;
+}
+.wrapper-player .panel .controls .bottom .wrapper-icon-playlist {
+    width: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.wrapper-player .panel .controls .bottom .wrapper-icon-playlist img{
+    width: 28px;
+    height: 23px;
+}
+.wrapper-player .panel .controls .bottom .buttons{
+    width: 165px;
+    height: 100%;
+    display: flex;
+    cursor: default;
+}
+.wrapper-player .panel .controls .bottom .buttons .play{
+    width: 100px;
+    display: flex;
+    align-items: center;
+
+}
+.wrapper-player .panel .controls .bottom .buttons .play img{
+    width: 20px;
+    height: 22px;
+    margin-left: 45px;
+}
+
+.wrapper-player .panel .controls .bottom .buttons .stop{
+    margin-left: 10px;
+    margin-top: 15px;
+    
+    
+}
+.wrapper-player .panel .controls .bottom .buttons .stop img{
+    width: 11px;
+    height: 11px;
+}
+/* .wrapper-player .panel .controls .bottom .buttons .next{
+    
+} */
+.wrapper-player .panel .controls .bottom .load{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.wrapper-player .panel .controls .bottom .load img{
+    width: 28px;
+    height: 28px;
+    margin-left: 5px;
+}
+.wrapper-player .panel .controls .bottom .load h3{
+    font-size: 10px;
+    font-family: 'OpenSans';
+    font-weight: 200;
+    margin-left: 35px;
+    color: #eeeeee;
+}
+.wrapper-player .panel .img{
+    top: 14px;
+    left: auto;
+    right: 20px;;
+    /* background: brown; */
+    position: absolute;
+    width: 94px;
+    height: 107px;
+}
+.wrapper-player .panel .img img{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Плейлист */
+.wrapper-player .playlist{
+    /* position: absolute; */
+    position: relative;
+    padding: 3px;
+    /* margin-top: 20px; */
+    width: 422px;
+    min-height: 220px;
+    background-image: url('../img/player/playlist-fon.png');
+    background-repeat: no-repeat  ;
+    background-size: 100% 100%;
+    /* overflow: auto;  */
+}
+.wrapper-player .playlist .playlist-list{
+    display: flex;
+    align-items: center;
+    cursor: default;
+    
+}
+.wrapper-player .playlist .playlist-list:hover{
+    border: #e5e5e5 1px solid;
+    display: flex;
+    align-items: center;
+    cursor: default;
+}
+.wrapper-player .playlist .playlist-list h3{
+    margin-left: 10px;
+    font-family: 'OpenSans';
+    font-size: 15px;
+    color: #c5e2f7;
+    font-weight: 200;
+}
+
+.wrapper-player .playlist .playlist-list .playlist-time {
+    margin-left: auto;
+    margin-right: 20px;
+}
+.wrapper-player .playlist .playlist-list .activ-time{
+    color: #008b00;
+}
+.wrapper-player .playlist .playlist-list .red{
+    color: red;
+}
+.wrapper-player .playlist .activ{
+    /* width: 98.6%; */
+    height: 55px;
+    background: #21512e;
+    border-radius: 3px 3px 0px 0px;
+}
+.wrapper-player .playlist .next{
+    /* width: 98.6%; */
+    height: 55px;
+    background: #3a4149;
+}
+.wrapper-player .playlist .inactiv{
+    /* width: 98.6%; */
+    height: 55px;
+}
+.wrapper-player .playlist .inactiv img{
+    opacity: 0.7;
+}
+.wrapper-player .playlist .inactiv h3{
+    margin-left: 10px;
+    font-family: 'OpenSans';
+    font-size: 15px;
+    color: #797c7e;
+    font-weight: 200;
+}
+/* .wrapper-player .playlist .playlist-list .playlist-time {
+    margin-left: auto;
+    margin-right: 20px;
+} */
+/* исправления добавления нового окна для не доступных */
+.wrapper-playlist{
+    margin-bottom: 25px;
+    position: relative;
+}
+.wrapper-player .block-playlist-window{
+    top: 0px;
+
+    display: none;
+    position: absolute;
+    background: rgb(0, 0, 0);
+    opacity: 0.5;
+    height: 100%;
+    width: 422px;
+}
+.wrapper-player  .block-window{
+    display: none;
+    top: 30%;
+    left: 90px;
+    padding-top: 50px;
+    position: absolute;
+    height: 150px;
+    width: 250px;
+    color: #e5e5e5;
+    text-align: center;
+    vertical-align: center;
+    background-image: url('../img/player/playlist-fon.png');
+    background-repeat: no-repeat  ;
+    background-size: 100% 100%;
+}

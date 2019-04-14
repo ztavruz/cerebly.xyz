@@ -1,0 +1,434 @@
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'71'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5,5,44'</font> <i>(length=6)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'14:00 - 17:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'20:00 - 23:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4:00 - 7:00'</font> <i>(length=11)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-09 08:15:23'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'842'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=2)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'44'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy2)blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:23:29'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>object</b>(<i>Abonement</i>)[<i>7</i>]
+  <i>public</i> 'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'77'</font> <i>(length=2)</i>
+  <i>public</i> 'owner' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'109'</font> <i>(length=3)</i>
+  <i>public</i> 'asids' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4,5,4,4,3,5,4,4,0,45'</font> <i>(length=20)</i>
+  <i>public</i> 'interval1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'12:00 - 15:00'</font> <i>(length=13)</i>
+  <i>public</i> 'interval2' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'22:00 - 1:00'</font> <i>(length=12)</i>
+  <i>public</i> 'interval3' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>public</i> 'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2 Недели'</font> <i>(length=14)</i>
+  <i>public</i> 'times' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2'</font> <i>(length=1)</i>
+  <i>public</i> 'paid' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  <i>public</i> 'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-14 19:21:20'</font> <i>(length=19)</i>
+  <i>public</i> 'outsum' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'450'</font> <i>(length=3)</i>
+  <i>public</i> 'code' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+  <i>public</i> 'block_start' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'block_end' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'paytime' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  <i>public</i> 'expired' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Без описания'</font> <i>(length=23)</i>
+  <i>public</i> 'history' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'[{&quot;modifed&quot;:&quot;14.03.2017&quot;,&quot;asids&quot;:&quot;4,5,4,4,3,5,4,4,0,45&quot;,&quot;audiosessions&quot;:{&quot;0&quot;:{&quot;id&quot;:&quot;4&quot;,&quot;caption&quot;:&quot;3 \u0422\u0435\u0440\u0430\u043f\u0435\u0432\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0410\u0443\u0434\u0438\u043e \u0441\u0435\u0430\u043d\u0441  \u0438\u0437\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u043d\u0430\u0432\u044f\u0437\u0447\u0438\u0432\u044b\u0445  \u043c\u044b\u0441\u043b\u0435\u0439&quot;},&quot;1&quot;:{&quot;id&quot;:&quot;5&quot;,&quot;caption&quot;:&quot;4 \u0422\u0435\u0440\u0430\u043f\u0435\u0432\u0442\u0438\u'...</font> <i>(length=3280)</i>
+</pre>
+<pre class='xdebug-var-dump' dir='ltr'>
+<b>array</b> <i>(size=4)</i>
+  0 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/blue-box.png'</font> <i>(length=19)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  1 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/green-box.png'</font> <i>(length=20)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  2 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5'</font> <i>(length=1)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'(copy3)Aqp3GAsdrCY.jpg'</font> <i>(length=22)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/red-box.png'</font> <i>(length=18)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-02-16 20:21:05'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+      'duration' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'00:00:00'</font> <i>(length=8)</i>
+      'blockend' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0000-00-00 00:00:00'</font> <i>(length=19)</i>
+  3 <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=11)</i>
+      'id' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'45'</font> <i>(length=2)</i>
+      'uri' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'audiosessions/(copy3)blue-box.png'</font> <i>(length=33)</i>
+      'description' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько абзацев более менее осмыслен...'</font> <i>(length=203)</i>
+      'img' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'images/(copy3)blue-box.png'</font> <i>(length=26)</i>
+      'caption' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'5 Терапевтический Аудио сеанс  избавления от навязчивых  мыслей'</font> <i>(length=116)</i>
+      'created' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'2017-03-05 09:25:02'</font> <i>(length=19)</i>
+      'published' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+      'blocked' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0'</font> <i>(length=1)</i>
+      'blockstart' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'duration' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+      'blockend' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+</pre>
