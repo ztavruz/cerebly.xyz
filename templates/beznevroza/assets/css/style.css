@@ -92,7 +92,6 @@ body{
 .container{
     width: 1170px;
     padding: 0 15px;
-    margin: 0 auto;
 }
 
 .admin-content-wrapper{
@@ -707,12 +706,7 @@ i.blue-link-icon{
     vertical-align: middle;
     border: 1px solid #dddddd;
     padding: 10px;
-    
 }
-.admin-table tr{
-    /* width: 100%; */
-}
-
 
 .admin-table tr:nth-child(2n+1){
     background-color: #f7f7f7;
@@ -1401,9 +1395,7 @@ input.admin-textfield{
 
 
 /*---- Окно подтверждения удаления ----*/
-.modal{
-    left: 50%;
-}
+
 
 
 
@@ -1444,6 +1436,7 @@ input.admin-textfield{
     width: 124px;
     height: 35px;
 }
+
 
 
 /*---- Окно блокировки ----*/
@@ -2428,4 +2421,22 @@ label.btn-default:active:hover{
     height: 35px;
     margin-left: 20px;
     margin-top: 10px;
+}
+
+
+
+
+
+
+
+/* ------------------------------------------ztavruz-------------------------------------------- */
+.adminModal-deleteAudio{
+    left: 50%;
+    background: rgba(139, 139, 139, 0) !important;
+
+}
+.adminModal-lockAudio{
+    left: 50%;
+    background: rgba(139, 139, 139, 0) !important;
+     
 }

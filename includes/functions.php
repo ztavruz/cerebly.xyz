@@ -40,10 +40,12 @@ function processRequest(){
         $action = "default";
     }
 
-
+    // var_dump($controller);
+    // var_dump($action);
 
     if( $controller->haveAction($action) ) {
         $actionName = $action . "Action";
+        
         return $controller->$actionName();
     }
     else

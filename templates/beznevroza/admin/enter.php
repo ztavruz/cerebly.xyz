@@ -20,9 +20,14 @@
     <link rel="stylesheet" href="<?php echo getAssetsUrl() ?>/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 
-
 <body>
+<style>
 
+.modal{
+    left: 0;
+}
+
+</style>
 
 
 

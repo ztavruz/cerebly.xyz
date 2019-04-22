@@ -1,6 +1,6 @@
 <?php
 ?>
-<div class="modal fade confirm-window-simple" id="delete-audiosession">
+<div class="modal fade confirm-window-simple adminModal-deleteAudio" id="delete-audiosession">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -20,7 +20,7 @@
     </div>
 </div>
 
-<div class="modal fade confirm-block-window" id="block-audiosession">
+<div class="modal fade confirm-block-window adminModal-lockAudio" id="block-audiosession">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">

@@ -29,7 +29,7 @@ $isok = $data['isok'];
             </div>
             <!--      breadcrumbs        /-->
 
-    <div class="container">
+    <div class="conteiner">
     <div class="row">
         <div class="white-block">
                          <?php //foreach ($isok as $key){

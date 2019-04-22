@@ -22,7 +22,7 @@ $questions = $data['questions'];
 </div>
 
 <div class="admin-content">
-  <div class="container" style="margin-left: 100px;">
+  <div class="conteiner" style="margin-left: 100px;">
     <div class="row">
     <?php foreach ($questions as $key){ ?> 
         <div class="col-md-7" >
