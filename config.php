@@ -9,8 +9,10 @@ $config = array(
     'db' => array(
         "database" => "celebry",
         "host" => "localhost",
-        "username" => 'root',
-        "password" => ""
+        "username" => 'u0301_cerebry',
+        "password" => "samsung123"
+        // "username" => 'root',
+        // "password" => ""
     ),
     "default-theme" => "beznevroza",
     "controller-label" => 'c',
