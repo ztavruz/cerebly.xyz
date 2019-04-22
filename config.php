@@ -7,10 +7,14 @@ date_default_timezone_set('Europe/Riga');
 
 $config = array(
     'db' => array(
-        "database" => "celebry",
+        // -----------origin-----------
+        "database" => "u0301994_cerebry",
         "host" => "localhost",
         "username" => 'u0301_cerebry',
         "password" => "samsung123"
+        // -----------ztavruz-----------
+        // "database" => "celebry",
+        // "host" => "localhost",
         // "username" => 'root',
         // "password" => ""
     ),
